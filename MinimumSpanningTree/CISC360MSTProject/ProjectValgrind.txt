@@ -1,0 +1,404 @@
+0 89 64 85
+1 80 67 30
+2 66 26 4
+3 53 87 0
+4 52 33 81
+5 46 68 3
+6 88 57 65
+7 64 28 73
+8 59 85 73
+9 27 89 78
+10 11 52 92
+11 45 63 5
+12 46 9 35
+13 83 86 63
+14 30 54 91
+15 56 34 92
+16 50 75 43
+17 53 57 71
+18 41 98 17
+19 83 77 88
+20 7 12 14
+21 11 1 54
+22 57 69 83
+23 16 2 28
+24 9 84 29
+25 79 37 95
+26 6 0 68
+27 61 66 61
+28 77 19 15
+29 15 85 50
+30 6 72 71
+31 76 35 70
+32 12 49 82
+33 36 11 94
+34 84 16 25
+35 63 47 0
+36 23 58 15
+37 52 49 4
+38 25 18 39
+39 16 13 87
+40 96 80 0
+41 7 2 22
+42 11 92 89
+43 82 13 77
+44 35 5 75
+45 71 49 30
+46 97 83 22
+47 52 16 63
+48 89 81 76
+49 81 66 41
+50 19 71 22
+51 34 31 33
+52 0 78 56
+53 92 79 30
+54 10 53 41
+55 60 8 56
+56 13 39 88
+57 15 95 40
+58 86 80 31
+59 93 86 50
+60 36 3 49
+61 76 20 27
+62 87 60 94
+63 12 2 30
+64 37 9 49
+65 25 38 80
+66 15 33 43
+67 38 1 87
+68 92 64 37
+69 42 89 10
+70 36 54 41
+71 39 20 23
+72 69 17 6
+73 43 22 48
+74 82 4 5
+75 31 66 30
+76 95 4 10
+77 3 14 31
+78 81 0 87
+79 95 39 99
+80 47 88 70
+81 61 72 44
+82 31 80 57
+83 15 1 81
+84 37 28 76
+85 33 0 86
+86 64 18 83
+87 29 79 35
+88 7 18 27
+89 43 54 9
+90 79 89 5
+91 28 66 23
+92 59 77 95
+93 0 99 30
+94 40 3 80
+95 63 29 66
+96 5 9 82
+97 41 14 82
+98 85 78 16
+99 52 63 47
+100 92 95 83
+101 3 82 26
+102 58 64 12
+103 54 34 16
+104 11 59 26
+105 47 94 95
+106 47 79 70
+107 38 17 88
+108 77 13 7
+109 65 73 23
+110 84 68 89
+111 59 47 3
+112 66 59 91
+113 4 62 54
+114 35 43 25
+115 37 92 40
+116 13 4 44
+117 21 11 30
+118 19 90 95
+119 19 57 5
+120 61 13 75
+121 58 34 1
+122 40 2 86
+123 21 92 54
+124 42 53 43
+125 37 61 80
+126 42 71 6
+127 91 74 61
+128 12 39 39
+129 91 9 45
+130 44 6 86
+131 50 56 49
+132 70 59 29
+133 81 86 76
+134 6 82 78
+135 14 13 95
+136 5 54 92
+137 53 95 33
+138 29 20 36
+139 46 0 71
+140 39 92 96
+141 45 70 9
+142 87 37 57
+143 17 30 47
+144 58 67 36
+145 59 55 0
+146 74 31 39
+147 16 83 63
+148 97 33 51
+149 87 20 3
+150 82 62 1
+151 32 65 52
+152 62 38 81
+153 72 47 38
+154 93 6 6
+155 78 99 93
+156 72 65 41
+157 11 66 9
+158 7 33 42
+159 43 7 44
+160 33 34 56
+161 87 1 19
+162 33 69 54
+163 50 14 95
+164 16 70 47
+165 53 49 76
+166 95 99 90
+167 11 70 57
+168 85 13 41
+169 45 60 58
+170 79 35 27
+171 16 78 24
+172 94 17 69
+173 47 5 53
+174 82 55 41
+175 91 81 63
+176 19 64 28
+177 45 14 26
+178 47 76 77
+179 57 15 78
+180 40 62 22
+181 22 98 68
+182 59 20 56
+183 2 28 2
+184 93 12 63
+185 25 59 29
+186 58 35 33
+187 87 50 90
+188 9 42 25
+189 85 21 51
+190 67 21 57
+191 50 76 18
+192 73 29 5
+193 28 51 72
+194 72 50 27
+195 13 86 23
+196 44 10 35
+197 47 73 58
+198 7 51 25
+199 87 90 42
+200 99 48 33
+201 50 36 61
+202 59 57 39
+203 50 95 0
+204 78 81 50
+205 15 3 73
+206 51 71 83
+207 95 71 4
+208 58 75 43
+209 1 85 23
+210 74 23 2
+211 29 44 58
+212 28 30 35
+213 88 39 80
+214 83 32 97
+215 21 70 4
+216 26 53 23
+217 22 95 9
+218 66 1 9
+219 96 91 64
+220 70 96 76
+221 53 8 88
+222 99 3 81
+223 3 52 27
+224 47 90 41
+225 78 79 60
+226 59 81 36
+227 36 21 49
+228 22 13 30
+229 76 67 62
+230 63 19 42
+231 13 83 49
+232 68 45 83
+233 95 12 43
+234 74 5 31
+235 32 64 92
+236 12 89 13
+237 47 89 18
+238 46 65 94
+239 6 3 94
+240 89 57 50
+241 60 14 61
+242 70 20 3
+243 37 65 47
+244 21 99 57
+245 75 65 24
+246 26 4 41
+247 73 71 54
+248 82 89 93
+249 44 2 55
+250 73 48 29
+251 4 23 13
+252 14 16 87
+253 88 80 85
+254 41 12 60
+255 89 41 66
+256 78 83 66
+257 50 19 51
+258 67 77 75
+259 46 14 71
+260 83 84 80
+261 48 79 26
+262 8 58 32
+263 11 51 39
+264 75 46 43
+265 49 14 40
+266 64 3 9
+267 51 16 79
+268 37 70 71
+269 72 89 76
+270 99 6 92
+271 85 0 22
+272 43 84 71
+273 88 73 94
+274 5 39 8
+275 16 34 67
+276 93 53 68
+277 83 53 14
+278 53 82 71
+279 15 10 42
+280 87 99 2
+281 14 42 79
+282 15 58 43
+283 96 2 2
+284 95 80 58
+285 10 23 49
+286 92 0 67
+287 59 16 31
+288 84 5 67
+289 84 79 62
+290 37 68 21
+291 27 32 48
+292 94 51 26
+293 2 56 85
+294 93 26 28
+295 82 2 88
+296 81 51 56
+297 22 60 48
+298 13 26 37
+299 81 6 86
+Edge 85-0 included in MST, weight 22
+Edge 66-1 included in MST, weight 9
+Edge 2-28 included in MST, weight 2
+Edge 64-3 included in MST, weight 9
+Edge 82-4 included in MST, weight 5
+Edge 5-39 included in MST, weight 8
+Edge 93-6 included in MST, weight 6
+Edge 7-12 included in MST, weight 14
+Edge 8-58 included in MST, weight 32
+Edge 9-42 included in MST, weight 25
+Edge 44-10 included in MST, weight 35
+Edge 11-66 included in MST, weight 9
+Edge 12-89 included in MST, weight 13
+Edge 77-13 included in MST, weight 7
+Edge 45-14 included in MST, weight 26
+Edge 15-95 included in MST, weight 40
+Edge 16-78 included in MST, weight 24
+Edge 69-17 included in MST, weight 6
+Edge 7-18 included in MST, weight 27
+Edge 19-57 included in MST, weight 5
+Edge 87-20 included in MST, weight 3
+Edge 21-70 included in MST, weight 4
+Edge 22-95 included in MST, weight 9
+Edge 74-23 included in MST, weight 2
+Edge 25-59 included in MST, weight 29
+Edge 66-26 included in MST, weight 4
+Edge 27-32 included in MST, weight 48
+Edge 73-29 included in MST, weight 5
+Edge 28-30 included in MST, weight 35
+Edge 31-66 included in MST, weight 30
+Edge 7-33 included in MST, weight 42
+Edge 58-34 included in MST, weight 1
+Edge 35-43 included in MST, weight 25
+Edge 36-54 included in MST, weight 41
+Edge 37-68 included in MST, weight 21
+Edge 25-38 included in MST, weight 80
+Edge 40-62 included in MST, weight 22
+Edge 41-98 included in MST, weight 17
+Edge 42-71 included in MST, weight 6
+Edge 43-54 included in MST, weight 9
+Edge 45-63 included in MST, weight 5
+Edge 46-68 included in MST, weight 3
+Edge 63-47 included in MST, weight 0
+Edge 48-79 included in MST, weight 26
+Edge 52-49 included in MST, weight 4
+Edge 50-95 included in MST, weight 0
+Edge 7-51 included in MST, weight 25
+Edge 53-87 included in MST, weight 0
+Edge 59-55 included in MST, weight 0
+Edge 50-56 included in MST, weight 49
+Edge 22-60 included in MST, weight 48
+Edge 61-72 included in MST, weight 44
+Edge 82-62 included in MST, weight 1
+Edge 65-73 included in MST, weight 23
+Edge 80-67 included in MST, weight 30
+Edge 70-20 included in MST, weight 3
+Edge 95-71 included in MST, weight 4
+Edge 72-50 included in MST, weight 27
+Edge 75-65 included in MST, weight 24
+Edge 50-76 included in MST, weight 18
+Edge 85-78 included in MST, weight 16
+Edge 79-89 included in MST, weight 5
+Edge 96-80 included in MST, weight 0
+Edge 59-81 included in MST, weight 36
+Edge 83-53 included in MST, weight 14
+Edge 84-16 included in MST, weight 25
+Edge 13-86 included in MST, weight 23
+Edge 88-57 included in MST, weight 65
+Edge 47-90 included in MST, weight 41
+Edge 91-9 included in MST, weight 45
+Edge 92-79 included in MST, weight 30
+Edge 94-51 included in MST, weight 26
+Edge 97-83 included in MST, weight 22
+Edge 87-99 included in MST, weight 2
+Edge 96-2 included in MST, weight 2
+Edge 39-20 included in MST, weight 23
+Edge 58-64 included in MST, weight 12
+Edge 42-89 included in MST, weight 10
+Edge 77-19 included in MST, weight 15
+Edge 45-70 included in MST, weight 9
+Edge 59-47 included in MST, weight 3
+Edge 32-65 included in MST, weight 52
+Edge 54-34 included in MST, weight 16
+Edge 46-9 included in MST, weight 35
+Edge 41-12 included in MST, weight 60
+Edge 10-53 included in MST, weight 41
+Edge 3-52 included in MST, weight 27
+Edge 87-1 included in MST, weight 19
+Edge 17-30 included in MST, weight 47
+Edge 73-48 included in MST, weight 29
+Edge 4-23 included in MST, weight 13
+Edge 95-4 included in MST, weight 10
+Edge 1-85 included in MST, weight 23
+Edge 93-26 included in MST, weight 28
+Edge 23-58 included in MST, weight 15
+Edge 47-89 included in MST, weight 18
+Edge 19-71 included in MST, weight 22
+Edge 7-2 included in MST, weight 22
+DISJOINT
+NO MST
+Boruvka's CPU Time (seconds): 0.095868
+DISJOINT
+NO MST
+Kruskal's CPU Time (seconds): 0.010472
